@@ -1,4 +1,4 @@
-# Brainfuck Tunnel - Psiphon Pro Go Version
+# LƯU Ý: mình chỉ fok từ bác "hienhoanghien2006" và gốc: "caotu2k5"
 
 ...
 
